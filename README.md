@@ -17,6 +17,7 @@ find . -type f -name "*Old*.ppt"
 find . -type f -name "*Old*.ppt"
 find . -name *NORMA* -type d
 find . -name "*" -type f
+```
 
 # find empty files
 
